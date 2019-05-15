@@ -1,0 +1,38 @@
+baseurl = "http://localhost:1313"
+languageCode = "en-us"
+metadataformat = "yaml"
+title = "Documentation"
+theme = "alabaster-2"
+
+disqusShortname = ""
+googleAnalytics = ""
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+  name = "Documentation"
+  description = ""
+
+  github_user   = ""
+  github_repo   = ""
+  github_banner = false
+
+  custom_css = []
+  custom_js  = []
+
+  highlightjs = "css/highlight.css"
+  favicon = "favicon.ico"
+
+[params.sidebar]
+  logo = "favicon.ico"
+
+  github_button  = false
+  travis_button  = false
+  codecov_button = false
+  gratipay = ""
+
+  show_relations = true
+
+[params.footer]
+  copyright = "[NickolasHKraus](https://github.com/NickolasHKraus)"
+  show_powered_by = true
