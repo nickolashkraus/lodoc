@@ -5,6 +5,6 @@ url: /
 weight: -1
 ---
 
-## What is lodoc?
+## What is Lodoc?
 
-lodoc (lō-däk) provides an easy and convenient way of viewing documentation locally.
+Lodoc (lō-däk) provides an easy and convenient way of viewing documentation locally.

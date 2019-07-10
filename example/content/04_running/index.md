@@ -4,7 +4,7 @@ url: /running
 weight: 4
 ---
 
-lodoc is run using a Docker image. Simply mount your `content` directory, publish port 1313, and navigate to [localhost:1313](https://localhost:1313).
+Lodoc is run using a Docker image. Simply mount your `content` directory, publish port 1313, and navigate to [localhost:1313](https://localhost:1313).
 
 
 ```bash
