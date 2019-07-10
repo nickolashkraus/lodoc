@@ -24,7 +24,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   favicon = "favicon.ico"
 
 [params.sidebar]
-  logo = "favicon.ico"
+  logo = "favicon.png"
 
   github_button  = false
   travis_button  = false
