@@ -60,5 +60,5 @@ Lodoc is run using a Docker image. Simply mount your `content` directory, publis
 docker run \
   -p 1313:1313 \
   -v $(pwd)/example/content:/lodoc/content: \
-  lodoc:latest
+  nickolashkraus/lodoc:latest
 ```
