@@ -1,8 +1,9 @@
 # Lodoc
 
-[![](https://images.microbadger.com/badges/image/nickolashkraus/lodoc.svg)](https://microbadger.com/images/nickolashkraus/lodoc)
-[![](https://images.microbadger.com/badges/version/nickolashkraus/lodoc.svg)](https://microbadger.com/images/nickolashkraus/lodoc)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/NickolasHKraus/lodoc/blob/master/LICENSE)
+[![MicroBadger Layers](https://images.microbadger.com/badges/image/nickolashkraus/lodoc.svg)](https://microbadger.com/images/nickolashkraus/lodoc)
+[![MicroBadger Version](https://images.microbadger.com/badges/version/nickolashkraus/lodoc.svg)](https://microbadger.com/images/nickolashkraus/lodoc)
+[![Releases](https://img.shields.io/github/v/release/NickolasHKraus/lodoc?color=blue)](https://github.com/NickolasHKraus/lodoc/releases)
+[![MIT License](https://img.shields.io/github/license/NickolasHKraus/lodoc?color=blue)](https://github.com/NickolasHKraus/lodoc/blob/master/LICENSE)
 
 Lodoc (lō-däk) provides an easy and convenient way of viewing documentation locally.
 
