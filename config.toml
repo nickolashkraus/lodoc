@@ -2,7 +2,7 @@ baseurl = "http://localhost:1313"
 languageCode = "en-us"
 metadataformat = "yaml"
 title = "Documentation"
-theme = "alabaster-2"
+theme = "alabaster"
 
 disqusShortname = ""
 googleAnalytics = ""

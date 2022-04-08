@@ -15,7 +15,7 @@ RUN hugo new site /lodoc
 
 WORKDIR /lodoc
 
-RUN git clone https://github.com/NickolasHKraus/alabaster-2.git themes/alabaster-2
+RUN git clone git@github.com:bitprophet/alabaster.git themes/alabaster
 
 COPY config.toml .
 
