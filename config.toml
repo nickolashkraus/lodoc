@@ -34,5 +34,5 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   show_relations = true
 
 [params.footer]
-  copyright = "[NickolasHKraus](https://github.com/NickolasHKraus)"
+  copyright = "[nickolashkraus](https://github.com/nickolashkraus)"
   show_powered_by = true

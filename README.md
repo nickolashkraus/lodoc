@@ -1,8 +1,8 @@
 # Lodoc
 
 [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/nickolashkraus/lodoc?color=blue)](https://cloud.docker.com/u/nickolashkraus/repository/docker/nickolashkraus/lodoc)
-[![Releases](https://img.shields.io/github/v/release/NickolasHKraus/lodoc?color=blue)](https://github.com/NickolasHKraus/lodoc/releases)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/NickolasHKraus/lodoc/blob/master/LICENSE)
+[![Releases](https://img.shields.io/github/v/release/nickolashkraus/lodoc?color=blue)](https://github.com/nickolashkraus/lodoc/releases)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/nickolashkraus/lodoc/blob/master/LICENSE)
 
 [Docker Hub](https://cloud.docker.com/u/nickolashkraus/repository/docker/nickolashkraus/lodoc)
 
